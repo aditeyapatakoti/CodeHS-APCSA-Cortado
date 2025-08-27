@@ -1,4 +1,4 @@
-# CodeHS-APCSA
+# CodeHS-APCSA-Cortado
 This repository includes answers and code to every quiz and assignment needed in CodeHS's course called "AP Computer Science A (Cortado)".
 
 To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
