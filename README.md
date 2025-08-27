@@ -16,5 +16,5 @@ If you find any issues with the code please let me know by creating an issue.
 [Click here to go to the issues page](https://github.com/aditeyapatakoti/CodeHS-APCSA-Cortado/issues)
 
 
-Note: **This repository is maintained by users like you. I do not currently have access to this course and if any new quiz/assignment is added to this course by codeHS, please create a pull request with your code.** If you have any suggestions or want to add your own final projects to help out other people, then please let me know through the discussion tab.
+Note: **Unlike my other CodeHS quiz and answer repositories, this one is currently being updated and maintained.** If you have any suggestions or want to add any files to this repository, please let me know through the discussion tab.
 
