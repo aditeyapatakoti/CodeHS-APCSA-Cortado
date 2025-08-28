@@ -1,0 +1,4 @@
+1. Scanner input = new Scanner(System.in);
+2. int num = input.nextInt();
+3. 50.0
+4. Hello, . You are 25 years old.
