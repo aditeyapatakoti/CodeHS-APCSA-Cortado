@@ -1,0 +1,4 @@
+1. message = "Hello";
+2. 20
+3. result = 2 * num + 20;
+4. null can be assigned to any variable.
