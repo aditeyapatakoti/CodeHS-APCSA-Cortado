@@ -1,0 +1,7 @@
+1. Hello World!
+2. 
+  I love 
+  Java!
+3. ABC
+   D
+4. The print statement is missing escape sequences for the quotation marks and should be: System.out.println("He said, \"Java is fun!\"");
